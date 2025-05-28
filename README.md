@@ -16,3 +16,12 @@ Interactive Filters: Drill down by department, physician, date range, and patien
 Visualizations: Dynamic charts, KPIs, heat maps, and slicers enhance data interpretation and decision-making.
 
 This dashboard empowers healthcare administrators, clinicians, and stakeholders to make data-driven decisions that improve patient outcomes, optimize resources, and enhance the overall efficiency of healthcare delivery.
+
+![Dashboard-snap](https://github.com/user-attachments/assets/200d6e11-fc27-4d0d-8f4c-107814b3e4b6)
+
+![Dashboard-snap (2)](https://github.com/user-attachments/assets/732e15b0-be6b-41e2-a2be-753c5f6e21b6)
+
+![Dashboard-snap (3)](https://github.com/user-attachments/assets/0e5545b1-2653-4c58-a72f-5e77ad39794e)
+
+
+
